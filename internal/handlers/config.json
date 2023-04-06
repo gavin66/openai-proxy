@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://api.openai.com",
+  "authorization": "",
+  "proxy": ""
+}
